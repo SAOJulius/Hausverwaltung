@@ -36,7 +36,7 @@ public class mainGui {
 
         frame.setVisible(true);
 
-        button.addActionListener();
+
     }
 
     public static void main(String[] args) {
